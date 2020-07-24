@@ -9,6 +9,7 @@
 
 * HTML
 * CSS
+* JavaScript
 
 #### O que foi desenvolvido?
 
