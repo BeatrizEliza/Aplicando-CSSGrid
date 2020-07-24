@@ -1,6 +1,6 @@
 # Aplicando-CSSGrid
 
-### Desenvolvimento de uma página de jogos fictícia utilizando Grid Layout
+### Desenvolvimento de uma página de aplicativos fictícia utilizando Grid Layout
 
 ##### Curso oferecido por: Alura
 ##### https://cursos.alura.com.br/formacao-front-end
